@@ -43,8 +43,9 @@ Skeptic-Digital-AI, also known as "The Digital Skeptic," is an AI-powered tool d
 
 *   **Real-time Feedback**: Displays analysis results directly on the page with loading and error states.
 
-## Architecture Overview and Approach
+## Architecture Overview 
 
+### Approach
 Skeptic-Digital-AI is a full-stack web application built with Next.js. The frontend provides a user interface for submitting article URLs and displaying analysis reports. The backend is implemented using Next.js API routes, which handle the core logic.
 
 When a user submits a URL:
@@ -99,7 +100,7 @@ cd Skeptic-Digital-AI
 2.  **Install dependencies**:
 
 ```bash
-pnpm install
+npm install
 
 ```
 3.  **Set up environment variables**:
@@ -129,7 +130,7 @@ To run the application in development mode:
 1.  **Start the development server**:
 
 ```bash
-pnpm dev
+npm dev
 
 ```
 2.  **Open in your browser**:
