@@ -27,8 +27,6 @@ Skeptic-Digital-AI, also known as "The Digital Skeptic," is an AI-powered tool d
 
 - [Testing](#testing)
 
-- [License](#license)
-
 - [Acknowledgements](#acknowledgements)
 
 ## Key Features
@@ -224,13 +222,8 @@ Currently, there are no automated tests implemented for this project. Future dev
 
 *   **End-to-End Tests**: To simulate user interactions and verify the entire application flow.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file (if present, otherwise assumed MIT) for details.
 
 ## Acknowledgements
-
-*   **Spandan Mukherjee**: The creator and maintainer of this project.
 
 *   **Next.js**: For the powerful React framework.
 
